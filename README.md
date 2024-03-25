@@ -23,13 +23,11 @@
 ---
 | ![Alianur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=alianurrahman&show_icons=true&theme=radical) | [![Alianur Rahman's Stri](https://streak-stats.demolab.com?user=alianurrahman&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alianurrahman&layout=compact&&show_icons=true&theme=radical)](https://github.com/alianurrahman/github-readme-stats) |                                                              |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alianurrahman&layout=compact&&show_icons=true&theme=radical)](https://github.com/alianurrahman/github-readme-stats) | [![trophy](https://github-profile-trophy.vercel.app/?username=alianurrahman&theme=onedark&row=2&column=4)](https://github.com/alianurrahman/github-profile-trophy) |
 
 
 
 [![Alianur Rahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alianurrahman&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/alianurrahman/github-readme-activity-graph)
-
-
 
 
 
