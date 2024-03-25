@@ -1,7 +1,7 @@
 - ### Hi there, I'm Alianur Rahman👋
   ![](https://komarev.com/ghpvc/?username=alianurrahman&color=green)  
   [![Website](https://img.shields.io/website?label=portpolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.alianurrahman.com/)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/alianur_rahman)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/alianurrahman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/alianur_rahman)
 
 
   ## I'm an Author, Jr. Data Scientist, AI Researcher, NLP Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alianurrahman/)
