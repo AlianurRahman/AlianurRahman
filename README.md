@@ -1,10 +1,10 @@
 - ### Hi there, I'm Alianur Rahman👋
   ![](https://komarev.com/ghpvc/?username=alianurrahman&color=green)  
-  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/alianur-rahman-849349125/)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rahman_alianur)
+  [![Website](https://img.shields.io/website?label=portpolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.alianurrahman.com/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/alianur_rahman)
 
 
-  ## I'm an Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+  ## I'm an Author, Jr. Data Scientist, AI Researcher, NLP Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alianurrahman/)
 
 ---
 
@@ -16,7 +16,7 @@
   
   - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
   
-  - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+  - 🥅 2022 Goals: Explore more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation, etc.
 
   - ⚡ Fun fact: I love to code.
 
@@ -27,7 +27,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/alianurrahman/github-readme-activity-graph)
+[![Alianur Rahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alianurrahman&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/alianurrahman/github-readme-activity-graph)
 
 
 
