@@ -8,7 +8,7 @@
 
 ---
 
-  * 🔭 I am Currently working as **Chief Data Scientist(Sr.AWS AI ML Solution Architect)** at [IBM](https://www.ibm.com/in-en)
+  * 🔭 I am Currently study at [UNJA](https://unja.ac.id/)
 
   - 🌱 I’m currently Learning Quantum Machine learning😎.
 
@@ -16,7 +16,7 @@
   
   - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
   
-  - 🥅 2022 Goals: Explore more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation, etc.
+  - 🥅 2024 Goals: Explore more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation, etc.
 
   - ⚡ Fun fact: I love to code.
 
@@ -82,7 +82,7 @@
 
 ### Important Repository
 
-💾 365 Days of Computer Vision - [🔗](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
+💾 Medium post - [🔗](https://alianurrahman.com)
 
 ---
 
